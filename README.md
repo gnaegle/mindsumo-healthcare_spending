@@ -1,4 +1,4 @@
-mindsumo-healthcare_spending
+Description
 ============================
 
 Solution to Cigna's "Uncover trends in healthcare spending" challenge on MindSumo, which can be seen [here](https://www.mindsumo.com/contests/215). I got an honorable mention for my submission.
